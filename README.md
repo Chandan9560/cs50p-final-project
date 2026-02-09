@@ -1,6 +1,6 @@
 # Weather Tracker With History
 #### Video Demo: [click here to watch the project video](https://youtu.be/yp5YS3dYau0)
-
+#### Note: To run this project, you will need your own API key from OpenWeatherMap.
 #### Description:
 This project is a robust, command-line interface (CLI) application developed as the final project for Harvard's CS50P. The primary goal of the application is to provide users with instantaneous weather data for any global city while maintaining a local, persistent record of their search habits. By integrating with the OpenWeatherMap API, the tool bridges the gap between simple local scripts and real-world web services.
 
