@@ -38,7 +38,7 @@ def convert_unit(unit):
 
 def get_weather(city, unit):
     # getting weather data from API
-    API_KEY = "21656c5155b6bf0027778f9e425db59a"
+    API_KEY = "YOUR_API_KEY_HERE"
     url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units={unit}"
 
     # Return a dictionary of data
